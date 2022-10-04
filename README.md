@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Art & Design , 3D Modeling , Sustainability , Astronomy , Product Designer , Architeture & Music
 - 🌱 I’m currently learning ... Full Stack & XR Development 
 - 💞️ I’m looking to collaborate on ... XR , Creative coding , UI/UX 
-- 📫 How to reach me ...
+- 📫 How to reach me ... on @Dribble @Behance @github @Instagram
 
 <!---
 JVVTco/JVVTco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
